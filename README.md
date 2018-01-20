@@ -1,2 +1,7 @@
-# cs420
-CSCI 420 - Mobile App Security
+# CSCI 420 - Mobile App Security
+**Author**: Khauri McClain  
+**Email**: kmcclain@email.wm.edu  
+
+**Course Description** : Students successfully completing this class will be able to understand and apply the various security best-practices in designing mobile applications, and will also develop a background in the research and practices in performing security analysis of mobile applications. The course will introduce the fundamental concepts in security and privacy (e.g., confidentiality, threat models, crypto basics, SSL/TLS, access control) and demonstrate how these concepts apply to secure mobile application development. Students will also learn the various techniques used in analyzing mobile applications for security vulnerabilities or malware, including static and dynamic program analysis. The Android platform, and Android's application model will generally be the prime examples used throughout the class, although iOS application analysis techniques may also be added as the course progresses. Students will have homework (programming and/or question-based assignments), a semester-long application development/analysis project, and a final exam.
+
+**\*disclaimer\*** This is all my original work. If you happen to find this repository through Google or something and just copy-paste it and get caught, then don't blame me.
